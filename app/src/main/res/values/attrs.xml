@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <declare-styleable name="WatchCustomView">
+        <attr name="colorCicle" format="color"/>
+        <attr name="colorLineSecond" format="color"/>
+        <attr name="colorLineMinute" format="color"/>
+        <attr name="colorLineHour" format="color"/>
+    </declare-styleable>
+</resources>
